@@ -30,6 +30,7 @@ set(SRC_FILES
         src/decoder/SndfileDecoder.cpp
 
         src/main.cpp
+        src/playlist_manager.cpp
 )
 
 add_executable(soundwich
